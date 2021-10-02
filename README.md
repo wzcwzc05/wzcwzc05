@@ -14,10 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzcwzc05)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzcwzc05&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wzcwzc05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wzcwzc05&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![](http://antzuhl.cn:4000/get/@wzcwzc05)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzcwzc05&simulate-gravity)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzcwzc05&Face-recognition)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzcwzc05&remi-study)](https://github.com/anuraghazra/github-readme-stats)
+
+
