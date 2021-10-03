@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Senior High Students
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DargonXuan&count_private=true&include_all_commits=true&theme=dark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wzcwzc05&count_private=true&include_all_commits=true&theme=dark"/>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzcwzc05&layout=compact"/>
