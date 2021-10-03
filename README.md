@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in Changzhou
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: QQ-2970262419 Email-zichenw98@gmail.com
-- 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzcwzc05&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
