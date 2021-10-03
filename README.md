@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 Senior High Students
 
+**Where to find me**
+
+- [Blog](http://www.wzcwzc.cool)
+- [Telegram](https://t.me/UnderStarlight0)
 
 
 
