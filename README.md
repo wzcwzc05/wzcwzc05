@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying in Changzhou
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: QQ-2970262419 Email-zichenw98@gmail.com
+Senior High Students
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DargonXuan&count_private=true&include_all_commits=true&theme=dark"/>
 
