@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzcwzc05&layout=compact"/>
 
-Senior High Students
+Senior High Students From China Changzhou
 
 **Where to find me**
 
