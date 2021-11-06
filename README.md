@@ -28,4 +28,10 @@ Senior High Students From China Changzhou
 
 
 
+What's Going on？
 
+Studying  Vue.js    [wzcwzc05/vue3-ts-study (github.com)](https://github.com/wzcwzc05/vue3-ts-study)
+
+OpenGL    https://github.com/wzcwzc05/simulate-gravity-c-
+
+Flask   
