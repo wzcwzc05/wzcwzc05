@@ -36,4 +36,4 @@ Vue.js    [wzcwzc05/vue3-ts-study (github.com)](https://github.com/wzcwzc05/vue3
 
 OpenGL    https://github.com/wzcwzc05/simulate-gravity-c-
 
-Flask   
+Flask(Jinja)    [wzcwzc05/flask-study(github.com)](https://github.com/wzcwzc05/flask-study)
