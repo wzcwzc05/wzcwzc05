@@ -19,21 +19,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzcwzc05&layout=compact"/>
 
-Senior High Students From China Changzhou
+An undergraduate from Soochow University
 
 **Where to find me**
 
 - [Blog](http://www.wzcwzc.cool)
 - [Telegram](https://t.me/UnderStarlight0)
-
-
-
-What's Going on？
-
-Studying  
-
-Vue.js    [wzcwzc05/vue3-ts-study (github.com)](https://github.com/wzcwzc05/vue3-ts-study)
-
-OpenGL    https://github.com/wzcwzc05/simulate-gravity-c-
-
-Flask(Jinja)    [wzcwzc05/flask-study(github.com)](https://github.com/wzcwzc05/flask-study)
